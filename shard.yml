@@ -1,0 +1,13 @@
+name: .
+version: 0.1.0
+
+authors:
+  - takuya matsunaga <takanotume24@gmail.com>
+
+targets:
+  .:
+    main: src/..cr
+
+crystal: 0.29.0
+
+license: MIT
