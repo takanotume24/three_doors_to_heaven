@@ -1,11 +1,11 @@
 # 3 Doors and Heavenシュミレータ
 
-[3 Doors to Heaven Puzzle Asked in Google Interview - Interview Riddles](http://www.crazyforcode.com/heaven-hell-puzzle/)を再現するシュミレータです。
-３つドアがある。
-１つ目のドアは天国につながっている。
-２つ目のドアは１日地獄に行ったあと、３つドアがある場所に戻ってくる。
-３つ目のドアは２日地獄に行ったあとに、３つドアのある場所に戻ってくる。
-平均何日で天国へ行けるか？
+[3 Doors to Heaven Puzzle Asked in Google Interview - Interview Riddles](http://www.crazyforcode.com/heaven-hell-puzzle/)を再現するシュミレータです。  
+３つドアがある。  
+１つ目のドアは天国につながっている。  
+２つ目のドアは１日地獄に行ったあと、３つドアがある場所に戻ってくる。  
+３つ目のドアは２日地獄に行ったあとに、３つドアのある場所に戻ってくる。  
+平均何日で天国へ行けるか？  
 ## Installation
 
 このレポジトリを任意の場所にクローンしてください。
