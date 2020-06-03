@@ -10,8 +10,20 @@
 
 このレポジトリを任意の場所にクローンしてください。
 ## Usage
+ビルド方法
 ```
-./three_doors_to_heaven [シュミレーション回数]
+$ make build
+```
+
+実行方法
+- ドアが3枚の場合
+```
+$ ./bin/3_doors_to_heaven 試行回数
+```
+- ドアがk枚の場合
+```
+$ ./bin/k_doors_to_heaven 試行回数 ドア枚数
+
 ```
 ## Development
 
